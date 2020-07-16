@@ -1,14 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Introduction</title>
-    <link>https://peternagy.github.io/tags/</link>
-    <description>Recent content in Tags on Introduction</description>
+    <title>Tags on peternagy.me</title>
+    <link>https://peternagy.me/tags/</link>
+    <description>Recent content in Tags on peternagy.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://peternagy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://peternagy.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>css</title>
+      <link>https://peternagy.me/tags/css/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://peternagy.me/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://peternagy.me/tags/html/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://peternagy.me/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://peternagy.me/tags/markdown/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://peternagy.me/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>https://peternagy.me/tags/math/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://peternagy.me/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://peternagy.me/tags/shortcodes/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://peternagy.me/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://peternagy.me/tags/themes/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://peternagy.me/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://peternagy.me/tags/hugo/</link>
+      <pubDate>Thu, 04 Jun 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://peternagy.me/tags/hugo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

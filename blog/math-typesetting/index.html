@@ -10,15 +10,15 @@
 <meta name="referrer" content="no-referrer">
 
 <title>
-Tags - peternagy.me
+Math Typesetting - peternagy.me
 </title>
 
-<link href="/tags/index.xml" rel="alternate" type="application/rss+xml" title="peternagy.me" />
 
-        <meta property="og:title" content="Tags - peternagy.me" />
+
+        <meta property="og:title" content="Math Typesetting - peternagy.me" />
 <meta property="og:type" content="website" />
-<meta property="og:description" content=""/>
-<meta property="og:url" content="https://peternagy.me/tags/"/>
+<meta property="og:description" content="A brief guide to setup KaTeX"/>
+<meta property="og:url" content="https://peternagy.me/blog/math-typesetting/"/>
 <meta property="og:site_name" content="peternagy.me"/>
 
 
@@ -49,8 +49,10 @@ Tags - peternagy.me
             
             <div class="container hero  fade-in one ">
                 
-                <h1 class="bold-title is-1">Tags</h1>
-                
+
+<h1 class="bold-title is-1">Blogs</h1>
+
+
             </div>
             
             <div class="section  fade-in two ">
@@ -93,9 +95,54 @@ Tags - peternagy.me
 
 
                 
-    <div class="container">
-        <div class="section tags-list"><a class="tag-cloud" href="/tags/css">css&nbsp;(1)</a><a class="tag-cloud" href="/tags/html">html&nbsp;(1)</a><a class="tag-cloud" href="/tags/hugo">hugo&nbsp;(1)</a><a class="tag-cloud" href="/tags/markdown">markdown&nbsp;(1)</a><a class="tag-cloud" href="/tags/math">math&nbsp;(1)</a><a class="tag-cloud" href="/tags/shortcodes">shortcodes&nbsp;(1)</a><a class="tag-cloud" href="/tags/themes">themes&nbsp;(1)</a></div>
+<div class="container">
+    <h2 class="title is-1 top-pad strong-post-title">
+        <a href="https://peternagy.me/blog/math-typesetting/">Math Typesetting</a>
+    </h2>
+    <div class="post-data">
+        Jun 5 2020 |
+        1 minute read
     </div>
+    
+    
+    
+    <p>
+        Tag:
+        
+        <a href="/tags/math">math</a>
+        
+    </p>
+    
+</div>
+
+<div class="container markdown top-pad">
+    <p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
+<p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
+<ul>
+<li>Create a partial under <code>/layouts/partials/math.html</code></li>
+<li>Within this partial reference the <a href="https://katex.org/docs/autorender.html">Auto-render Extension</a> or host these scripts locally.</li>
+<li>Include the partial in your templates like so:</li>
+</ul>
+<pre><code>{{ if or .Params.math .Site.Params.math }}
+{{ partial &quot;math.html&quot; . }}
+{{ end }}
+</code></pre>
+<ul>
+<li>To enable KaTex globally set the parameter <code>math</code> to <code>true</code> in a project&rsquo;s configuration</li>
+<li>To enable KaTex on a per page basis include the parameter <code>math: true</code> in content files.</li>
+</ul>
+<p><strong>Note:</strong> Use the online reference of <a href="https://katex.org/docs/supported.html">Supported TeX Functions</a>
+</p>
+<h3 id="examples">Examples</h3>
+<p>Inline math: $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$</p>
+<p>Block math:</p>
+<p>$$
+\sigma(t) = \cfrac{1}{1 + e^{-t}}
+$$</p>
+</div>
+
+
+
 
 
                 
