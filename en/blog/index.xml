@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ipsum on peternagy.me</title>
-    <link>https://peternagy.me/tags/ipsum/</link>
-    <description>Recent content in ipsum on peternagy.me</description>
+    <title>Blog on peternagy.me</title>
+    <link>https://peternagy.me/en/blog/</link>
+    <description>Recent content in Blog on peternagy.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Mon, 13 Nov 2017 11:58:39 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2020 20:18:53 -0500</lastBuildDate>
     
-	<atom:link href="https://peternagy.me/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://peternagy.me/en/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>**Long** Form Post!</title>
+      <link>https://peternagy.me/en/blog/long-form-post/</link>
+      <pubDate>Sat, 30 May 2020 20:18:53 -0500</pubDate>
+      
+      <guid>https://peternagy.me/en/blog/long-form-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum.
+Elementum Nisi Quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
+    </item>
     
     <item>
       <title>Hipster Ipsum</title>
@@ -37,6 +47,15 @@
       
       <guid>https://peternagy.me/en/blog/coffee-ipsum/</guid>
       <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong. Americano caffeine white, con panna saucer sit, con panna eu, carajillo aftertaste kopi-luwak, body aftertaste cup single origin café au lait saucer. Macchiato java sweet arabica, turkish cup, eu flavour mug extraction white cortado saucer est white brewed instant, rich, barista breve cappuccino barista organic.</description>
+    </item>
+    
+    <item>
+      <title>Undated post</title>
+      <link>https://peternagy.me/en/blog/no-date/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://peternagy.me/en/blog/no-date/</guid>
+      <description>I was born yesterday, tomorrow.</description>
     </item>
     
   </channel>

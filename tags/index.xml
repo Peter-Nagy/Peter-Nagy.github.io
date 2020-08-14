@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Introduction</title>
+    <title>Tags on peternagy.me</title>
     <link>https://peternagy.me/tags/</link>
-    <description>Recent content in Tags on Introduction</description>
+    <description>Recent content in Tags on peternagy.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© {year}</copyright>
     <lastBuildDate>Sat, 30 May 2020 20:18:53 -0500</lastBuildDate>
     
 	<atom:link href="https://peternagy.me/tags/index.xml" rel="self" type="application/rss+xml" />
