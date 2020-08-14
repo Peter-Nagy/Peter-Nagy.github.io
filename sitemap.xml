@@ -3,77 +3,88 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://peternagy.me/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>https://peternagy.me/projects/photography/</loc>
+  </url>
+  
+  <url>
+    <loc>https://peternagy.me/projects/design/</loc>
+  </url>
+  
+  <url>
+    <loc>https://peternagy.me/projects/writing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://peternagy.me/projects/</loc>
   </url>
   
   <url>
     <loc>https://peternagy.me/blog/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-30T20:18:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peternagy.me/tags/css/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>https://peternagy.me/blog/long-form-post/</loc>
+    <lastmod>2020-05-30T20:18:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peternagy.me/tags/html/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>https://peternagy.me/tags/blog/</loc>
+    <lastmod>2020-05-30T20:18:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peternagy.me/tags/markdown/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>https://peternagy.me/tags/code/</loc>
+    <lastmod>2020-05-30T20:18:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peternagy.me/blog/markdown-syntax-guide/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://peternagy.me/tags/math/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://peternagy.me/blog/math-typesetting/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://peternagy.me/blog/rich-text/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://peternagy.me/tags/shortcodes/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>https://peternagy.me/</loc>
+    <lastmod>2020-05-30T20:18:53-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://peternagy.me/tags/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-30T20:18:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peternagy.me/tags/themes/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>https://peternagy.me/blog/hipster-ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peternagy.me/tags/hugo/</loc>
-    <lastmod>2020-06-04T09:19:29-04:00</lastmod>
+    <loc>https://peternagy.me/tags/ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peternagy.me/blog/example-post/</loc>
-    <lastmod>2020-06-04T09:19:29-04:00</lastmod>
+    <loc>https://peternagy.me/tags/words/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peternagy.me/categories/</loc>
+    <loc>https://peternagy.me/blog/startup-ipsum/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peternagy.me/tags/coffee/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peternagy.me/blog/coffee-ipsum/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peternagy.me/tags/images/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peternagy.me/blog/no-date/</loc>
   </url>
   
 </urlset>
