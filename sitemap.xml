@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://peternagy.me/en/</loc>
+    <loc>https://peternagy.me/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peternagy.me/blog/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://peternagy.me/en/blog/markdown-syntax-guide/</loc>
+    <loc>https://peternagy.me/blog/markdown-syntax-guide/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,17 +38,12 @@
   </url>
   
   <url>
-    <loc>https://peternagy.me/en/blog/math-typesetting/</loc>
+    <loc>https://peternagy.me/blog/math-typesetting/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peternagy.me/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://peternagy.me/en/blog/rich-text/</loc>
+    <loc>https://peternagy.me/blog/rich-text/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,7 +68,7 @@
   </url>
   
   <url>
-    <loc>https://peternagy.me/en/blog/example-post/</loc>
+    <loc>https://peternagy.me/blog/example-post/</loc>
     <lastmod>2020-06-04T09:19:29-04:00</lastmod>
   </url>
   
