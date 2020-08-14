@@ -7,62 +7,71 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Sat, 30 May 2020 20:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://peternagy.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>blog</title>
-      <link>https://peternagy.me/tags/blog/</link>
-      <pubDate>Sat, 30 May 2020 20:18:53 -0500</pubDate>
+      <title>css</title>
+      <link>https://peternagy.me/tags/css/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://peternagy.me/tags/blog/</guid>
+      <guid>https://peternagy.me/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>code</title>
-      <link>https://peternagy.me/tags/code/</link>
-      <pubDate>Sat, 30 May 2020 20:18:53 -0500</pubDate>
+      <title>html</title>
+      <link>https://peternagy.me/tags/html/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://peternagy.me/tags/code/</guid>
+      <guid>https://peternagy.me/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ipsum</title>
-      <link>https://peternagy.me/tags/ipsum/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      <title>markdown</title>
+      <link>https://peternagy.me/tags/markdown/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://peternagy.me/tags/ipsum/</guid>
+      <guid>https://peternagy.me/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>words</title>
-      <link>https://peternagy.me/tags/words/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      <title>math</title>
+      <link>https://peternagy.me/tags/math/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://peternagy.me/tags/words/</guid>
+      <guid>https://peternagy.me/tags/math/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>coffee</title>
-      <link>https://peternagy.me/tags/coffee/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      <title>shortcodes</title>
+      <link>https://peternagy.me/tags/shortcodes/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://peternagy.me/tags/coffee/</guid>
+      <guid>https://peternagy.me/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>images</title>
-      <link>https://peternagy.me/tags/images/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      <title>themes</title>
+      <link>https://peternagy.me/tags/themes/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://peternagy.me/tags/images/</guid>
+      <guid>https://peternagy.me/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://peternagy.me/tags/hugo/</link>
+      <pubDate>Thu, 04 Jun 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://peternagy.me/tags/hugo/</guid>
       <description></description>
     </item>
     
